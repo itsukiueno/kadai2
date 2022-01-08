@@ -26,3 +26,4 @@
 | コマンド | 端末① | 端末② | 端末３ | 端末④ |
 | :---: | :---: | :---: | :---: | :---: |
 | ① | $ cd catkin_ws/src | $ cd catkin_ws | $ cd catkin_ws/src/mypkg/scripts | - |
+| ② | $ roscore | $ rosrun mypkg count.py | $ rosrun mypkg twice.py | $ rostopic echo /twice |
