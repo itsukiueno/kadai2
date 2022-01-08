@@ -17,7 +17,7 @@
 # インストール
 以下の手順に従って入力してください。
 
-① $ git@github.com:itsukiueno/kadai2.git
+① $ git clone git@github.com:itsukiueno/kadai2.git
 
 
 # 実行
