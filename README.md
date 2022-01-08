@@ -12,7 +12,7 @@
 
 〇Os:ubuntu 20.04 server
 
-〇ROS
+〇ROS:noetic
 
 # 利用したもの
 〇Raspberry Pi 3 Model B
