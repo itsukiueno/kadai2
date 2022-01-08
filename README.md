@@ -7,6 +7,7 @@
 
 # 動作環境
 今回は以下の環境で動作を行いました。
+
 〇Raspberry Pi 3 Model B
 
 〇Os:ubuntu 20.04 server
