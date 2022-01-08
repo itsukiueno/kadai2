@@ -20,6 +20,8 @@
 
 ① $ git clone git@github.com:itsukiueno/kadai2.git
 
+② $ cd 
+
 
 # 実行
 以下のコマンドを打ち実行することができます。
