@@ -14,3 +14,7 @@
 # 利用したもの
 〇Raspberry Pi 3 Model B
 
+# インストール
+以下の手順に従って入力してください。
+
+① $ git@github.com:itsukiueno/kadai2.git
