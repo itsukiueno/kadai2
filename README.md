@@ -31,13 +31,13 @@
 | コマンド | $ cd catkin_ws/src | $ cd catkin_ws | $ cd catkin_ws/src/mypkg/scripts | - |
 
 ### 手順２
-端末①で $ roscore　と打ちます。
+端末①で $　roscore　と打ちます。
 
 ### 手順３
-端末②で $ rosrun mypkg count.py と打ちます。
+端末②で $　rosrun mypkg count.py　と打ちます。
 
 ### 手順４
-端末③で $ rosrun mypkg twice.py と打ちます。
+端末③で $　rosrun mypkg twice.py　と打ちます。
 
 ### 手順５
-端末④で $ rostopic echo /twice と打ちます。
+端末④で $　rostopic echo /twice　と打ちます。
